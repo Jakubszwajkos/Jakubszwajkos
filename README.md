@@ -4,6 +4,7 @@
 - 💪 I love to work with numbers
 - 🌱 I am Wine enthusiast
 - 👨‍💻 I am constantly learning new things
+- 👯 Open to collaborations
 
 
 <br />
@@ -22,7 +23,7 @@
 <br />
 <br />
 
-### Connect with me:
+### Concact with me 💬:
 <div>
   <a href = "mailto:p.szwajkos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      
