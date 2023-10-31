@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Kuba!
 
 ## My Dream is to become a Data Analyst
-- 💪 I love to work with numbers
-- 🌱 I am Wine enthusiast
-- 👨‍💻 I am constantly learning new things
-- 👯 Open to collaborations
+- 📊 I love to work with numbers
+- 🍷 I am Wine enthusiast
+- 📚 I am constantly learning new things
+- 👨‍👩‍👧‍👦 Open to collaborations
 
 
 <br />
